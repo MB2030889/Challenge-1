@@ -1,7 +1,8 @@
-Occupation: Alienville 👽🌌
 📖 Project Overview
 
-Occupation: Alienville is a short narrative VR experience created by Team Astro Alliance. Set in a pulp sci-fi alien city under twin suns, players witness a peaceful world disrupted by sudden human invasion. The environment shifts from serene daily life to chaos and defiance in under 45 seconds, immersing viewers in a cinematic story told through setting and atmosphere.
+Occupation: Alienville 👽🌌
+is a short narrative VR experience created by Team Astro Alliance. Set in a pulp sci-fi alien city under twin suns, players witness a peaceful world disrupted by sudden human invasion.
+The environment shifts from serene daily life to chaos and defiance in under 45 seconds, immersing viewers in a cinematic story told through setting and atmosphere.
 
 👥 Team Astro Alliance
 
