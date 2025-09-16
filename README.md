@@ -12,7 +12,7 @@ Aliya Robson — Narrative & Environment Design
 
 Stephen Martin — Narrative & Environment Design
 
-Anna Booth — Narrative Writing & Environment Design
+Anna Booth — Narrative & Environment Design
 
 🎮 Narrative Summary
 
